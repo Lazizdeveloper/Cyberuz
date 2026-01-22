@@ -1,0 +1,7 @@
+{
+  "name": "Qalqon - Xavfsiz Hujjat Almashinuvi",
+  "description": "Davlat va xususiy tashkilotlar uchun maxfiy hujjatlarni xavfsiz saqlash va ularning harakatini to'liq nazorat qilish platformasi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "SafeDoc Pro - Direktor Paneli",
+  "description": "Maxfiy hujjatlarni xavfsiz saqlash va to'liq monitoring qilish uchun mo'ljallangan strategik boshqaruv paneli.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
